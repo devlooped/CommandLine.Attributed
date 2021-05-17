@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.218
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FEB127CB-3F86-4287-B444-073AD4714B99}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		src\Directory.props = src\Directory.props
+		readme.md = readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF4D3FF9-A7E5-49BF-8864-63EDB299CFD9}
+	EndGlobalSection
+EndGlobal

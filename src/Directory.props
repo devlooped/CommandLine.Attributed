@@ -1,0 +1,7 @@
+<Project>
+
+  <PropertyGroup>
+    <RootNamespace>System.CommandLine</RootNamespace>
+  </PropertyGroup>
+  
+</Project>
